@@ -1,0 +1,22 @@
+body {
+  color: red;
+  background-color: yellow;}
+li {
+  color: green;}
+
+header {
+  color: white;
+  background-color: black;
+  test-align: center; 
+}
+
+li a {
+  color: green;
+}
+
+a {
+  color: black;
+}
+.MySpecialClass {
+  color: blue;
+}
